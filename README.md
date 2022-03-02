@@ -4,9 +4,8 @@
 ## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
 <!-- <img src=""> this is another way you can add in images -->
 <p align="center">
-  ![Cat](https://user-images.githubusercontent.com/74434875/156310829-9dd9bcc9-f023-4390-ae30-992cb9fc784d.gif)
+  <img src="https://user-images.githubusercontent.com/74434875/156310829-9dd9bcc9-f023-4390-ae30-992cb9fc784d.gif" alt="animated" />
 </p>
-
 
 
 Everyday, I am looking to further my technical skills. I've taught myself how to build a pc, use rainmeter to customize my desktop display, and coding 💻. You'll also often catch me at an music event in NYC! Well, not so much at the moment. But the next time you'll see, I'll probably be interested in a new hobby ☕.
