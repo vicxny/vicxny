@@ -31,11 +31,15 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/docs/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://docs.mongodb.com/)
 
-[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://docs.python.org/3/)
+
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://docs.python.org/3/)
+[<img align="left" alt="R" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://cran.r-project.org/manuals.html)
+[<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" style="padding-right:10px;" />](https://help.tableau.com/current/pro/desktop/en-us/default.htm)
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://dev.mysql.com/doc/)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 
+
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-light-mode-only)
 
