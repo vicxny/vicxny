@@ -13,8 +13,8 @@
 [<img align="left" alt="Website" width="26px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-site-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="Website" width="26px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-site-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />](#gh-dark-mode-only)
 
-[<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
-[<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-dark-mode-only)
+[<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
+[<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-light-mode-only)
