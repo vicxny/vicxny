@@ -1,11 +1,11 @@
 # Hi there, I'm Victoria  👋 
 
 
-## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Learner!!
+## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 👯 I’m have a passion to build anything that I am interested.
+- 🥅 2022 Goals: Learn more about Full-Stack Engineering
 - ⚡ Fun fact: I love to breakdance and play guitar / piano / violin
 
 ### Connect with me:
