@@ -1,7 +1,7 @@
 # Hi there, I'm Victoria  👋 
 
 
-## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
+## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learner!!!
 <!-- <img src=""> this is another way you can add in images -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74434875/156311834-32ee66b9-853e-492b-89c5-40f2e88d7bbb.gif" alt="animated" />
