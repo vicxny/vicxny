@@ -13,7 +13,7 @@
 [![website](./img/globe-light.svg)](#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
+[<img align="center" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
 [<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-dark-mode-only)
