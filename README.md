@@ -33,7 +33,7 @@
 
 
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://docs.python.org/3/)
-[<img align="left" alt="R" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://cran.r-project.org/manuals.html)
+[<img align="left" alt="R" width="26px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" style="padding-right:10px;" />](https://cran.r-project.org/manuals.html)
 [<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" style="padding-right:10px;" />](https://help.tableau.com/current/pro/desktop/en-us/default.htm)
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://dev.mysql.com/doc/)
