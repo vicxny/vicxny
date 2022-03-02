@@ -4,7 +4,7 @@
 ## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m have a passion to build anything that I am interested.
+- 👯 I’m have a passion to build anything that I am interested in.
 - 🥅 2022 Goals: Learn more about Full-Stack Engineering
 - ⚡ Fun fact: I love to breakdance and play guitar / piano / violin
 
