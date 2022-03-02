@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="center" alt="Website" width="30px" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Website" width="30px" src="https://icons8.com/icon/111593/portfolio" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="Website" width="30px" src="https://img.icons8.com/ios/50/000000/portfolio.png" style="padding-right:10px;" />](#gh-dark-mode-only)
-[<img align="center" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
+[<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
 [<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/vicxny#gh-dark-mode-only)
