@@ -4,9 +4,9 @@
 ## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
 <!-- <img src=""> this is another way you can add in images -->
 
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+![](https://giphy.com/gifs/internet-college-class-ny7UCd6JETnmE)
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! Well, not so much at the moment, but you'll probably find me on a live stream instead!
+Everyday, I am looking to further my technical skills. I've taught myself how to build a pc, use rainmeter to customize my desktop display, and coding 💻. You'll also often catch me at an music event in NYC! Well, not so much at the moment. But the next time you'll see, I'll probably be interested in a new hobby ☕.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m have a passion to build anything that I am interested in.
