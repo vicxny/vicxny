@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img align="center" alt="Website" width="30px" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Website" width="30px" src="https://img.icons8.com/ios/50/000000/portfolio.png" style="padding-right:10px;" />](#gh-dark-mode-only)
 [<img align="center" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-light-mode-only)
 [<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/victoriax/#gh-dark-mode-only)
 &nbsp;&nbsp;
