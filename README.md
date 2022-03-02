@@ -2,6 +2,9 @@
 
 
 ## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
+<!-- <img src=""> this is another way you can add in images -->
+
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m have a passion to build anything that I am interested in.
