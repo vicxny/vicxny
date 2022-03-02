@@ -4,7 +4,7 @@
 ## I'm a Software Engineer, Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learners!!!
 <!-- <img src=""> this is another way you can add in images -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74434875/156311304-c924f15a-3cbc-40bb-9090-a48ff179213e.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/74434875/156311657-2d666aec-410e-4c75-a381-80f71040ec64.gif" alt="animated" />
 </p>
 
 
