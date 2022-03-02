@@ -8,7 +8,7 @@
 </p>
 
 
-Everyday, I am looking to further my technical skills. I've taught myself how to build a pc, use rainmeter to customize my desktop display, and coding 💻. You'll also often catch me at an music event in NYC! Well, not so much at the moment. But the next time you'll see, I'll probably be interested in a new hobby ☕.
+Everyday, I am looking to further my technical skills. I've taught myself how to build a pc, use rainmeter to customize my desktop display, and code 💻. You'll also often catch me at an music event in NYC! Well, not so much at the moment. But the next time you'll see, I'll probably be interested in a new hobby ☕.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m have a passion to build anything that I am interested in.
