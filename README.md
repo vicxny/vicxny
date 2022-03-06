@@ -17,6 +17,9 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 ### My Favorite Free Courses:
 https://www.theodinproject.com/
+https://leonnoel.com/100devs/
+https://www.freecodecamp.org/learn
+https://fullstackopen.com/en/
 
 ### Connect with me:
 
