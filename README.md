@@ -54,6 +54,9 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 
 
+
+<br />
+<br />
 ### My Favorite Free Courses:
 https://www.theodinproject.com/
 
@@ -67,8 +70,5 @@ https://fullstackopen.com/en/
 https://www.coursera.org/
 
 https://www.udemy.com/
-
-<br />
-<br />
 
 ---
