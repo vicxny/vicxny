@@ -24,6 +24,10 @@ https://www.freecodecamp.org/learn
 
 https://fullstackopen.com/en/
 
+### My Favorite Paid Courses:
+https://www.coursera.org/
+https://www.udemy.com/
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="26px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-site-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />](#gh-light-mode-only)
