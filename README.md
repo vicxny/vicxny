@@ -15,6 +15,9 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - 🥅 2022 Goals: Learn more about Full-Stack Engineering
 - ⚡ Fun fact: I love to breakdance and play guitar / piano / violin
 
+### My Favorite Free Courses:
+https://www.theodinproject.com/
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="26px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-site-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />](#gh-light-mode-only)
