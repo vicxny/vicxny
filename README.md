@@ -15,19 +15,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - 🥅 2022 Goals: Learn more about Full-Stack Engineering
 - ⚡ Fun fact: I love to breakdance and play guitar / piano / violin
 
-### My Favorite Free Courses:
-https://www.theodinproject.com/
 
-https://leonnoel.com/100devs/
-
-https://www.freecodecamp.org/learn
-
-https://fullstackopen.com/en/
-
-### My Favorite Paid Courses:
-https://www.coursera.org/
-
-https://www.udemy.com/
 
 ### Connect with me:
 
@@ -66,7 +54,19 @@ https://www.udemy.com/
 
 
 
+### My Favorite Free Courses:
+https://www.theodinproject.com/
 
+https://leonnoel.com/100devs/
+
+https://www.freecodecamp.org/learn
+
+https://fullstackopen.com/en/
+
+### My Favorite Paid Courses:
+https://www.coursera.org/
+
+https://www.udemy.com/
 
 <br />
 <br />
