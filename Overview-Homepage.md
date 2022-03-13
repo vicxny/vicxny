@@ -18,3 +18,6 @@ Website
 [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 
 
+Inspiration
+
+[codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
