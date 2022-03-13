@@ -70,11 +70,12 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) 
 
+
+[Udemy](https://www.udemy.com/) 
+
 - [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/) 
 - [Colt Steele](https://www.udemy.com/user/coltsteele/) 
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
-
-[Udemy](https://www.udemy.com/) 
 
 
 
