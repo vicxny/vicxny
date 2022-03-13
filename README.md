@@ -74,7 +74,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - [Colt Steele](https://www.udemy.com/user/coltsteele/) 
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
-https://www.udemy.com/
+[Udemy](https://www.udemy.com/) 
 
 
 
