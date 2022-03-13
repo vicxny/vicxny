@@ -77,6 +77,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 - [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/) 
 - [Colt Steele](https://www.udemy.com/user/coltsteele/) 
+- [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
 
