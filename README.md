@@ -70,6 +70,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) 
 
+- [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) 
+- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) 
 
 [Udemy](https://www.udemy.com/) 
 
