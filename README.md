@@ -70,6 +70,10 @@ https://fullstackopen.com/en/
 ### My Favorite Paid Courses:
 https://www.coursera.org/
 
+#### My Favorite Paid Courses Instuctor:
+
 https://www.udemy.com/
+
+
 
 ---
