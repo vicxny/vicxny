@@ -59,18 +59,20 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 <br />
 
 ### My Favorite Free Courses:
-https://www.theodinproject.com/
+[The Odin Project](https://www.theodinproject.com/)
 
-https://leonnoel.com/100devs/
+[100Devs](https://leonnoel.com/100devs/)
 
-https://www.freecodecamp.org/learn
+[FreeCodeCamp](https://www.freecodecamp.org/learn)
 
-https://fullstackopen.com/en/
+[Full Stack Open](https://fullstackopen.com/en/)
 
 ### My Favorite Paid Courses:
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/) 
 
-#### My Favorite Paid Courses Instuctor:
+- [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/) 
+- [Colt Steele](https://www.udemy.com/user/coltsteele/) 
+- [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
 https://www.udemy.com/
 
