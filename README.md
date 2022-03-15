@@ -84,6 +84,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### Supplementary:
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) 
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
 
 ---
