@@ -82,11 +82,11 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
 ### Supplementary:
+[How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) 
-
-[How to Think Like a Computer Scientist: Interactive Editiot](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
