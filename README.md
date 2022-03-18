@@ -61,7 +61,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### My Favorite Free Courses:
 [The Odin Project](https://www.theodinproject.com/)
 
-[100Devs](https://leonnoel.com/100devs/) - [Playlist](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3) [Discord](https://discord.com/invite/zNxhjnmDPy)
+[100Devs](https://leonnoel.com/100devs/) - [Playlist](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3) - [Discord](https://discord.com/invite/zNxhjnmDPy)
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists?view=1&sort=dd&shelf_id=0) 
 
