@@ -86,7 +86,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) 
 
-(How to Think Like a Computer Scientist: Interactive Edition)(https://runestone.academy/ns/books/published/thinkcspy/index.html)
+[How to Think Like a Computer Scientist: Interactive Editiot](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
