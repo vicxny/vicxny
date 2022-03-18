@@ -63,7 +63,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [100Devs](https://leonnoel.com/100devs/) - [Playlist](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3) 
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn)
+[FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists?view=1&sort=dd&shelf_id=0) 
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
