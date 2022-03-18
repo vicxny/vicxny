@@ -87,9 +87,11 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) 
 
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
+[MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) 
 
 ### Roadmap:
 [Web Development Roadmap](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q) 
