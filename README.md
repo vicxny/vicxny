@@ -82,6 +82,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
 ### Supplementary:
+[The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) 
 
