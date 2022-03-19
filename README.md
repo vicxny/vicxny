@@ -50,7 +50,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [<img align="left" alt="SQL Server" width="26px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
 
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:5px;" />](https://git-scm.com/doc)
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 
 
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/96/000000/docker.png" style="padding-right:10px;" />](https://docs.docker.com/)
