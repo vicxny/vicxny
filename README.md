@@ -56,8 +56,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/96/000000/docker.png" style="padding-right:10px;" />](https://docs.docker.com/)
 
 
-<br />
-<br />
+
 
 
 ### My Favorite Free Courses:
