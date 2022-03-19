@@ -94,6 +94,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
+[Zero To Code](https://zerotocode.today/) 
+
 ### Roadmap:
 [Web Development Roadmap](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q) 
 
