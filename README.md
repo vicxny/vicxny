@@ -57,7 +57,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 <br />
 <br />
-<br />
 
 ### My Favorite Free Courses:
 [The Odin Project](https://www.theodinproject.com/)
