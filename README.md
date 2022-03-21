@@ -51,7 +51,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 
-
+<br />
+<br />
 ### Languages and Tools In-Progress:
 
 [<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
