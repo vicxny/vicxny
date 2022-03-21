@@ -75,7 +75,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [App Academy Open](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)
 
-[MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#subjects_covered)
+[MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) 
