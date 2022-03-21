@@ -53,7 +53,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 <br />
 <br />
-<br />
 
 ### Languages and Tools In-Progress:
 
