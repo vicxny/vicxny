@@ -53,15 +53,13 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 <br />
 <br />
+<br />
+
 ### Languages and Tools In-Progress:
 
 [<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
 
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/96/000000/docker.png" style="padding-right:10px;" />](https://docs.docker.com/)
-
-<br />
-<br />
-<br />
 
 ### My Favorite Free Courses:
 [The Odin Project](https://www.theodinproject.com/)
