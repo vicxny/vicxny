@@ -35,7 +35,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://javascript.info/)
-[<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/docs/getting-started.html)
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/docs/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/docs/)
@@ -52,6 +51,9 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 
+### Languages and Tools In-Progress:
+
+[<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
 
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/96/000000/docker.png" style="padding-right:10px;" />](https://docs.docker.com/)
 
