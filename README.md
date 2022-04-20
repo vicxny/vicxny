@@ -81,7 +81,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [Coursera](https://www.coursera.org/) 
 
 - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) 
+
 
 [Udemy](https://www.udemy.com/) 
 
