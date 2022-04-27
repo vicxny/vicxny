@@ -77,6 +77,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) 
 
