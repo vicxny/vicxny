@@ -80,7 +80,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) 
 
-- [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+- [List](https://github.com/vicxny/Coursera)
 
 
 [Udemy](https://www.udemy.com/) 
