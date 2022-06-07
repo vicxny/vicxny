@@ -64,7 +64,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 <br />
 <br />
 
-### My Favorite Free Courses:
+### My Favorite [Free Courses](https://github.com/vicxny/Free-Courses/tree/main):
 [The Odin Project](https://www.theodinproject.com/)
 
 [100Devs](https://leonnoel.com/100devs/) - [Playlist](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3) - [Discord](https://discord.com/invite/zNxhjnmDPy)
@@ -73,11 +73,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
-[App Academy Open](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)
-
-[MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-
-[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) - [List](https://github.com/vicxny/Coursera)
