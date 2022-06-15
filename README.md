@@ -61,6 +61,9 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/docs/)
 
+[<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/96/undefined/heroku.png" style="padding-right:10px;" />](https://devcenter.heroku.com/)
+
+
 <br />
 <br />
 
