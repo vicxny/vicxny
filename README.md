@@ -77,6 +77,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 
 ### My Favorite Paid Courses:
 [Coursera](https://www.coursera.org/) - [List](https://github.com/vicxny/Coursera)
