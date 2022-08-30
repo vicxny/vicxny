@@ -91,6 +91,14 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) 
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 
+## Interviews
+
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+## Systems Design
+
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ### Supplementary:
 [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
