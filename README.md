@@ -98,6 +98,8 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
+[Formation](https://formation.dev/)
+
 ## Systems Design
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
@@ -114,8 +116,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
 [Zero To Code](https://zerotocode.today/) 
-
-[Formation](https://formation.dev/)
 
 ### Roadmap:
 [Web Development Roadmap](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q) 
