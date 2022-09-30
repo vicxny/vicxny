@@ -53,17 +53,20 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 <br />
 
 ### Languages and Tools In-Progress:
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/docs/)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://docs.mongodb.com/)
 
 [<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
+
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/docs/)
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://docs.mongodb.com/)
+[<img align="left" alt="Django" width="26px" src="img src="https://img.icons8.com/material-outlined/24/000000/django.png" style="padding-right:10px;" />](https://docs.djangoproject.com/en/4.1/)
+
 
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/96/000000/docker.png" style="padding-right:10px;" />](https://docs.docker.com/)
 
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/docs/)
 
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/96/undefined/heroku.png" style="padding-right:10px;" />](https://devcenter.heroku.com/)
-[<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/96/000000/kotlin.png" style="padding-right:10px;" />](https://kotlinlang.org/docs/home.html)
+
 
 
 
