@@ -42,8 +42,6 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />](https://docs.python.org/3/)
 [<img align="left" alt="R" width="26px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" style="padding-right:10px;" />](https://cran.r-project.org/manuals.html)
 [<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" style="padding-right:10px;" />](https://help.tableau.com/current/pro/desktop/en-us/default.htm)
-
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://dev.mysql.com/doc/)
 [<img align="left" alt="SQL Server" width="26px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
 
 
@@ -55,9 +53,10 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 ### Languages and Tools In-Progress:
 
 [<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
-
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/docs/)
+
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://docs.mongodb.com/)
+
 [<img align="left" alt="Django" width="26px" src="https://img.icons8.com/material-outlined/24/000000/django.png" style="padding-right:10px;" />](https://docs.djangoproject.com/en/4.1/)
 
 
