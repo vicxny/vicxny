@@ -120,7 +120,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Zero To Code](https://zerotocode.today/) 
 
-### Roadmap:
+### Road Map:
 [RoadMap.sh](https://roadmap.sh/)
 
 ---
