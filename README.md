@@ -108,7 +108,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
-### Supplementary:
+## Supplementary:
 [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
@@ -121,7 +121,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Zero To Code](https://zerotocode.today/) 
 
-### Road Map:
+## Road Map:
 [RoadMap.sh](https://roadmap.sh/)
 
 ---
