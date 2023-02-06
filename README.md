@@ -96,6 +96,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 - [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) 
 - [Stephen Grider](https://www.udemy.com/user/sgslo/) 
 - [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+- [Janis Smilga](https://www.udemy.com/user/janis-smilga-3/)
 
 ## Interviews
 
