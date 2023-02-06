@@ -67,6 +67,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/96/undefined/heroku.png" style="padding-right:10px;" />](https://devcenter.heroku.com/)
 
+[<img align="left" alt="Azure" width="26px" src="https://img.icons8.com/fluency/48/null/azure-1.png" style="padding-right:10px;" />]([https://devcenter.heroku.com/](https://learn.microsoft.com/en-us/training/azure/?WT.mc_id=home_homepage-azureportal-learn))
 
 
 
