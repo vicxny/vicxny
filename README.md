@@ -46,6 +46,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/dusk/64/null/postman-api.png" style="padding-right:10px;" />](https://learning.postman.com/docs/getting-started/introduction/)
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/nolan/64/chatgpt.png" style="padding-right:10px;" />](https://chat.openai.com/chat)
 
 <br />
 <br />
