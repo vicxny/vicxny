@@ -85,7 +85,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
-[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+[c0d3](https://www.c0d3.com/)
 
 
 ### My Favorite Paid Courses:
