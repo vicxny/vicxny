@@ -1,19 +1,19 @@
 # Hi there, I'm Victoria  👋 
 
 
-## I'm a Data Scientist, Marketing Business Intellegence Analyst, and Continuous Learner!!!
+## I'm a Data Scientist, Marketing Business Intelligence Analyst, and Continuous Learner!!!
 <!-- <img src=""> this is another way you can add in images -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74434875/156311834-32ee66b9-853e-492b-89c5-40f2e88d7bbb.gif" alt="animated" />
 </p>
 
 
-Everyday, I am looking to further my technical skills. I've taught myself how to build a pc, use rainmeter to customize my desktop display, and code 💻. You'll also often catch me at music events in NYC! Well, not so much at the moment. But the next time you'll see me, I'll probably be interested in a new hobby ☕.
+Every day, I am looking to further my technical skills. I've taught myself how to build a PC, use Rainmeter to customize my desktop display, and code 💻. You'll also often catch me at music events in NYC! Well, not so much at the moment. But the next time you'll see me, I'll probably be interested in a new hobby ☕.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m have a passion to build anything that I am interested in.
+- 👯 I have a passion for building anything I am interested in.
 - 🥅 2022 Goals: Learn more about Full-Stack Engineering
-- ⚡ Fun fact: I love to breakdance and play guitar / piano / violin / Valorant
+- ⚡ Fun fact: I love to breakdance and play guitar/piano/violin / Valorant
 
 
 ### Connect with me:
@@ -51,7 +51,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 <br />
 <br />
 
-### Languages and Tools In-Progress:
+### Languages and Tools In Progress:
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/docs/getting-started.html)
 [<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
@@ -85,7 +85,7 @@ Everyday, I am looking to further my technical skills. I've taught myself how to
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
-[c0d3](https://www.c0d3.com/)
+[C0d3](https://www.c0d3.com/)
 
 
 ### My Favorite Paid Courses:
