@@ -85,7 +85,7 @@ Every day, I am looking to further my technical skills. I've taught myself how t
 
 [Full Stack Open](https://fullstackopen.com/en/)
 
-[C0d3](https://www.c0d3.com/)
+[C0D3](https://www.c0d3.com/)
 
 
 ### My Favorite Paid Courses:
